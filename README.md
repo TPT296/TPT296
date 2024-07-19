@@ -2,8 +2,8 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Business Analytics
 - 💞️ I’m looking to collaborate on reviewing and practicing SQL, Python, and Power BI
-- 📫 How to reach me 
-- 😄 Pronouns: ...
+- 📫 How to reach me: through my social accounts such as FB, Instagram
+- 😄 Pronouns:
 - ⚡ Fun fact: I'm a cold girl looking for someone whom I can vibe with, especially a tall boy who is good at coding and data analysis :>>
 
 <!---
